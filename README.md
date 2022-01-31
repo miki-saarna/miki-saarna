@@ -1,4 +1,4 @@
-### Hi there, I'm Miki 👋 
+### Hi there, my name is Miki 👋 
 
 - 🙋 I'm a Full Stack Software Engineer
 - 🎓 Recent Graduate of [Thinkful's Software Engineering Program][thinkful]
@@ -6,15 +6,20 @@
 - 🥅 2022 Goals: Hit the ground running with my very first role as a Software Engineer
 - ⚡ Fun fact: I have a lot of interests including: learning, guitar and bass, soccer, volleyball, cooking, trekking, bicycling, and of course coding!
 
-### Connect with me:
+<details>
+
+<summary> Connect with me:</summary>
 
 [<img align="left" alt="Link to LinkedIn account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Link to Instagram account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Link to Twitter account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+</details>
 
 <br />
 
-### Languages and Tools:
+<details>
+
+<summary>Languages and Tools:</summary>
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -46,14 +51,16 @@
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+</details>
 
 <br />
 
-<br />
+<!-- <br /> -->
 
----
+<!-- --- -->
 
 <details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <br />

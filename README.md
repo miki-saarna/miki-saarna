@@ -42,8 +42,6 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miki-saarna&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 
 ---
@@ -51,7 +49,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=miki-saarna&show_icons=true&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miki-saarna&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 

@@ -1,10 +1,10 @@
 ### Hi there, I'm Miki 👋 
 
-- 🙋 I'm a Full Stack Software Engineer
-- 🎓 Graduate of [Thinkful's Software Engineering Program][thinkful]
-- 🌱 Currently learning TypeScript and MongoDB
-- 🥅 2022 Goals: Hit the ground running with my very first role as a Software Engineer
-- ⚡ Fun fact: I went on a bike-packing trip from NJ all the way to MI
+- I'm a Full Stack Software Engineer
+- Graduate of [Thinkful's Software Engineering Program][thinkful]
+- Currently learning TypeScript and MongoDB
+- 2022 Goals: Hit the ground running with my very first role as a Software Engineer
+- Fun fact: I went on a bike-packing trip from NJ all the way to MI
 
 ### Connect with me:
 
